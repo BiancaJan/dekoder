@@ -26,4 +26,4 @@ for row in fr:
         x+=1
     y+=1
 picture.show()
-uhfaukh
+
